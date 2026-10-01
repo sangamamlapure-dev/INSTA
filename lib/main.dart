@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:insta/homepage.dart';
 import 'package:insta/loginpage.dart';
 
 void main() {
@@ -15,7 +16,7 @@ class _MainState extends State<Main> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: Loginpage(),
+      home: Homepage(),
     );
   }
 }
