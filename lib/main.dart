@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:insta/homepage.dart';
 import 'package:insta/loginpage.dart';
+import 'package:insta/profilepage.dart';
 
 void main() {
   runApp(const Main());
